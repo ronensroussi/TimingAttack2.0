@@ -1,7 +1,7 @@
 A project for the course "Attacks on Implementations of Secure Systems".
 
 
-the assingment was as follows:
+the assignment was as follows:
 
 
      A password-checking website has been set up at the address: http://aoi.ise.bgu.ac.il
