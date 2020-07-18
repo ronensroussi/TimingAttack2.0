@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="commons-math3-3.6.1-javadoc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../ttest/commons-math3-3.6.1-bin/commons-math3-3.6.1/commons-math3-3.6.1-tests.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../ttest/commons-math3-3.6.1-bin/commons-math3-3.6.1/commons-math3-3.6.1-tools.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../ttest/commons-math3-3.6.1-bin/commons-math3-3.6.1/commons-math3-3.6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../ttest/commons-math3-3.6.1-bin/commons-math3-3.6.1/commons-math3-3.6.1-javadoc.jar!/" />
+      <root url="file://$PROJECT_DIR$/../ttest/commons-math3-3.6.1-bin/commons-math3-3.6.1/docs/apidocs" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../ttest/commons-math3-3.6.1-bin/commons-math3-3.6.1/commons-math3-3.6.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../ttest/commons-math3-3.6.1-bin/commons-math3-3.6.1/commons-math3-3.6.1-test-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
